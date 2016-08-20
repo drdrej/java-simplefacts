@@ -1,5 +1,18 @@
 # java-simplefacts
 
+**experimental**
+
+-- my personal playground --
+
+business readable internal domain specific language written in java.
+
+rules
+facts
+requirements?
+domain
+microsoervices
+
+
 
 # API
 * fluent
